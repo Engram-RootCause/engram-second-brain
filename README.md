@@ -22,6 +22,16 @@ It opens your browser to create a free account, asks which assistant you use, an
 
 ---
 
+## Your brain, mapped
+
+Engram turns scattered memories into a structured, explorable graph — concepts as clusters, entities as nodes, connections as edges. Fly through it in 2D or 3D right in the console.
+
+![Engram brain map — concept clusters and their connections](docs/brain-map.png)
+
+<sub>Illustrative brain (synthetic data).</sub>
+
+---
+
 ## What Engram gives you
 
 - **Memory that survives sessions.** One brain, read and written by every conversation — so your assistant stops asking you to re-explain yesterday.
