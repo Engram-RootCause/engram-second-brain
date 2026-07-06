@@ -1,0 +1,39 @@
+{
+  "name": "engram-setup",
+  "version": "0.1.0",
+  "description": "One-command onboarding for Engram — the memory & skills layer for your AI assistant (Claude, ChatGPT, Codex, Antigravity).",
+  "type": "module",
+  "bin": {
+    "engram-setup": "bin/engram-setup.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "bin",
+    "docs",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "homepage": "https://engram.rootcause.ro",
+  "bugs": {
+    "url": "mailto:engram@rootcause.ro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Engram-RootCause/engram-second-brain"
+  },
+  "keywords": [
+    "engram",
+    "second-brain",
+    "mcp",
+    "model-context-protocol",
+    "ai-memory",
+    "claude",
+    "chatgpt",
+    "codex",
+    "antigravity",
+    "personal-knowledge-management"
+  ]
+}
