@@ -4,7 +4,7 @@
 
 > Your continuity lives in **your brain**, not in the assistant. Switch assistants; the brain stays.
 
-**→ Try it: [engram.rootcause.ro](https://engram.rootcause.ro)** · free to start, no card.
+**→ Try it: [engram.rootcause.ro](https://engram.rootcause.ro)** · free to use.
 
 ---
 
